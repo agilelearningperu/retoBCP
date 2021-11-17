@@ -98,5 +98,5 @@ Característica: Funcionalidad de busqueda de tickets
 
     Ejemplos:
       | tipo_viaje | destino      | ruta                 | fecha_salida | fecha_regreso | cantidad_adultos | cantidad_niños | ticket_ida     | ticket_regreso | medio_pago |
-      | Round Trip | Machu Picchu | Cusco > Machu Picchu | 17-11-2021   | 17-11-2021    | 2                | 0              | Expedition 203 | Expedition 32  | visa       |
-      | One Way    | Machu Picchu | Cusco > Machu Picchu | 17-11-2021   |               | 2                | 0              | Expedition 203 |                | visa       |
+      | Round Trip | Machu Picchu | Cusco > Machu Picchu | 18-11-2021   | 18-11-2021    | 2                | 0              | Expedition 203 | Expedition 34  | visa       |
+      | One Way    | Machu Picchu | Cusco > Machu Picchu | 18-11-2021   |               | 2                | 0              | Expedition 203 |                | visa       |
